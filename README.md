@@ -90,6 +90,3 @@ http://localhost:3000
 5. Adjust settings like tempo, auto continue, and ignore duration.
 6. View pitch accuracy and volume feedback in real-time.
 
-## 🏆 Contributors
-
-- **Charles Jensen - Developer**
